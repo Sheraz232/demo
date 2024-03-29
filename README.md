@@ -1,3 +1,3 @@
 This is my first demo
 <br>
-Author is Sheraz Ahmad
+Author is Sheraz (It's a demo)
